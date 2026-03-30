@@ -32,7 +32,7 @@
 /* HERO */
 .hero {
   height: 350px;
-  background: <img src="cam.png"> center/cover no-repeat;
+  background: <img src="cam.jpg"> center/cover no-repeat;
   display: flex;
   align-items: center;
   justify-content: center;
